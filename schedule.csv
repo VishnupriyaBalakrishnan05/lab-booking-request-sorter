@@ -1,0 +1,14 @@
+id,sent,request,lab,date,slot,students,summary,status,reason
+Q01,2026-11-01,Need Python Lab 1 on 9 November afternoon for 55 students for CS101 practice,LAB1,2026-11-09,AN,55,Python Lab 1 for CS101 practice,available,No rule-based issue found; awaiting lab in-charge confirmation
+Q04,2026-11-02,Book LAB1 on 11 November morning for 30 students for MA102 tutorial,LAB1,2026-11-11,FN,30,MA102 tutorial in LAB1,available,No rule-based issue found; awaiting lab in-charge confirmation
+Q08,2026-11-02,Book LAB3 on 13 November morning for 32 students for AI workshop,LAB3,2026-11-13,FN,32,AI Lab for AI workshop,available,No rule-based issue found; awaiting lab in-charge confirmation
+Q09,2026-11-03,Need LAB5 on 14 November afternoon for 100 students for department meeting,LAB5,2026-11-14,AN,100,Seminar Hall for department meeting,available,No rule-based issue found; awaiting lab in-charge confirmation
+Q10,2026-11-03,Book Python Lab 1 on 16 November afternoon for 45 students for coding,LAB1,2026-11-16,AN,45,Python Lab 1 for coding,available,No rule-based issue found; awaiting lab in-charge confirmation
+Q11,2026-11-03,Need AI Lab on 17 November morning for 38 students for project work,LAB3,2026-11-17,FN,38,AI Lab for project work,available,No rule-based issue found; awaiting lab in-charge confirmation
+Q12,2026-11-03,Book LAB1 on 18 November morning for 50 students for lab session,LAB1,2026-11-18,FN,50,LAB1 lab session,available,No rule-based issue found; awaiting lab in-charge confirmation
+Q13,2026-11-04,Need Seminar Hall on 19 November afternoon for 110 students for guest lecture,LAB5,2026-11-19,AN,110,Seminar Hall for guest lecture,available,No rule-based issue found; awaiting lab in-charge confirmation
+Q15,2026-11-04,Need Python Lab 1 on 21 November morning for 40 students for workshop,LAB1,2026-11-21,FN,40,Python Lab 1 workshop,available,No rule-based issue found; awaiting lab in-charge confirmation
+Q17,2026-11-05,Need Python Lab 1 on 23 November afternoon for 55 students for CS practice,LAB1,2026-11-23,AN,55,Python Lab 1 for CS practice,available,No rule-based issue found; awaiting lab in-charge confirmation
+Q18,2026-11-05,Book Seminar Hall on 24 November morning for 90 students for presentation,LAB5,2026-11-24,FN,90,Seminar Hall for presentation,available,No rule-based issue found; awaiting lab in-charge confirmation
+Q19,2026-11-05,Need AI Lab on 25 November afternoon for 36 students for testing,LAB3,2026-11-25,AN,36,AI Lab for testing,available,No rule-based issue found; awaiting lab in-charge confirmation
+Q20,2026-11-05,Book LAB1 on 26 November morning for 28 students for tutorial,LAB1,2026-11-26,FN,28,LAB1 tutorial,available,No rule-based issue found; awaiting lab in-charge confirmation

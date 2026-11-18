@@ -1,0 +1,17 @@
+LAB BOOKING REQUEST SORTER - SUMMARY
+Total requests: 20
+
+Counts by status:
+available: 13
+conflict: 2
+over_capacity: 2
+lab_closed: 2
+needs_more_info: 1
+
+Counts by extracted lab:
+LAB1: 8
+LAB3: 7
+LAB5: 4
+Unknown / missing: 1
+
+All available entries are tentative. The lab in-charge must confirm each booking.

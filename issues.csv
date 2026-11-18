@@ -1,0 +1,8 @@
+id,sent,request,lab,date,slot,students,summary,status,reason
+Q02,2026-11-01,Book AI Lab on 10 November afternoon for 35 students for model training,LAB3,2026-11-10,AN,35,AI Lab for model training,conflict,Lab and session are already booked
+Q03,2026-11-01,Need a lab tomorrow for project review,,,,,Lab for project review,needs_more_info,Date is missing or relative; provide an explicit calendar date
+Q05,2026-11-02,Need Seminar Hall on 12 November afternoon for 130 students for a seminar,LAB5,2026-11-12,AN,130,Seminar Hall for seminar,over_capacity,Requested 130; capacity is 120
+Q06,2026-11-02,Book AI Lab on 10 November afternoon for 25 students for a second demo,LAB3,2026-11-10,AN,25,AI Lab for second demo,conflict,Lab and session are already booked
+Q07,2026-11-02,Need Python Lab 1 on 15 November morning for 20 students for practice,LAB1,2026-11-15,FN,20,Python Lab 1 for practice,lab_closed,Laboratories are closed on Sundays
+Q14,2026-11-04,Book AI Lab on 20 November afternoon for 42 students for training,LAB3,2026-11-20,AN,42,AI Lab for training,over_capacity,Requested 42; capacity is 40
+Q16,2026-11-04,Book LAB3 on 22 November morning for 30 students for club activity,LAB3,2026-11-22,FN,30,AI Lab for club activity,lab_closed,Laboratories are closed on Sundays

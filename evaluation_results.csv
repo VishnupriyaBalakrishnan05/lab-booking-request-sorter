@@ -1,0 +1,6 @@
+test_id,expected,actual,passed
+E1,available,available,True
+E2,conflict,conflict,True
+E3,over_capacity,over_capacity,True
+E4,lab_closed,lab_closed,True
+E5,needs_more_info,needs_more_info,True
