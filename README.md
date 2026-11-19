@@ -37,3 +37,34 @@ The application creates `results.csv`, date-sorted `schedule.csv`, `issues.csv` 
 
 ## GitHub safety
 `.gitignore` excludes `.env`, virtual environments and Python cache files. Never commit an API key. Suggested meaningful commits: (1) add specification, inputs and prompt; (2) implement extraction, validation and reports; (3) add evaluation, red-team tests and documentation.
+
+## Testing and Validation
+
+The application was tested using Python's unittest framework.
+
+Command used:
+
+```bash
+python -m unittest -v test_sorter
+```
+
+All 8 unit tests passed:
+
+- Available booking
+- Booking conflict
+- Impossible date rejection
+- Invalid extra field
+- Over-capacity request
+- Relative date requiring more information
+- Sunday laboratory closure
+- Valid LLM response schema
+
+The application was also executed with 20 booking requests. It generated the following reports:
+
+- `results.csv`
+- `schedule.csv`
+- `issues.csv`
+- `summary.txt`
+
+The system uses rule-based validation to check booking information and classify requests before final human approval.
+
